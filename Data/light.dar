@@ -1,0 +1,20 @@
+#DAR_FILE 100
+name=light
+light_0<
+name=Spot01
+type=Target
+shadows=Raytraced
+position=-67.521400 0.000000 66.666702
+color=1.000000 1.000000 1.000000
+intensity=1.000000
+direction=1.424500 0.000000 -0.569800
+cut_off=43.000000
+>
+light_1<
+name=Omni01
+type=Omni
+shadows=Off
+position=32.763500 0.000000 69.515701
+color=1.000000 1.000000 1.000000
+intensity=1.000000
+>
